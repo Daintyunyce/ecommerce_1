@@ -145,4 +145,24 @@ export const products = [
     description: '',
     discount:''       
 },
+  {
+    id: 21,
+    name: 'Product 21',
+    price: '$44.99',
+    image: require('../../assets/images/watch-12.jpg'),
+    category:'fashion',
+    quantity: '15',
+    description: '',
+    discount:'' 
+  },
+   {
+     id: 40,
+      name: 'Sweat Shirt',
+      price: '$50',
+      image: require('../../assets/images/Zibaville-1.png'),
+      category:'fashion',
+      quantity: '25',
+      description: '',
+      discount:'' 
+   }
   ];
